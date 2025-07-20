@@ -2,9 +2,16 @@
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
 
-# 💫 About Me:
-👋 Hi, I’m @MichelGad.<br>👀 I’m interested in football, science and food.<br>🌱 I’m currently learning python and R.<br>📫 How to reach me by email: michel.gad@outlook.com
+# 👋 Hi, I'm Michel Gad
+Ph.D. Candidate · Analytical Chemist · RDM Advocate
 
+## 🚀 About Me
+Experienced analytical chemist with a background in biomedical sciences. Skilled in architecting and implementing reproducible data workflows for high-volume, complex molecular datasets. Passionate about enhancing data reproducibility and reusability, and actively contributing to community-led data management systems like DataLad.
+
+*   🔬 Research Data Management & FAIR Data
+*   🧪 Reproducible Workflows
+*   📊 Advanced Statistical Modeling
+*   🤝 Interdisciplinary Collaboration
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Michel1Gad) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/MichelGad) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:michel.gad@outlook.com) 
