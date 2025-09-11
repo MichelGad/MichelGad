@@ -22,7 +22,7 @@
 # 👋 Hi, I'm Michel Gad
 
 <div align="center"> 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=D3D3D3&center=true&width=650&lines=Environmental+Analytical+Chemist;RDM+Enthusiast;Open+%7BScience%2C+Source%7D+Advocate;Building+SciTrace+for+Research+Data+Management" alt="Typing SVG" /> 
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=696969&center=true&width=650&lines=Environmental+Analytical+Chemist;RDM+Enthusiast;Open+%7BScience%2C+Source%7D+Advocate;Building+SciTrace+for+Research+Data+Management" alt="Typing SVG" /> 
 </div>
 
 ## 🚀 About Me
