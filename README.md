@@ -6,14 +6,20 @@
   <a href="https://MichelGad.github.io/">
     <img src="https://img.shields.io/badge/Website-4285F4?style=flat&logo=google-chrome&logoColor=white" />
   </a>
-  <a href="https://instagram.com/Michel1Gad">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" />
+  <a href="mailto:michel.gad@outlook.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/MichelGad">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:michel.gad@outlook.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
+  <a href="https://www.researchgate.net/profile/Michel-Gad-4?ev=hdr_xprf">
+    <img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=flat&logo=researchgate&logoColor=white" />
+  </a>
+  <a href="https://orcid.org/my-orcid?orcid=0000-0003-0340-8426">
+    <img src="https://img.shields.io/badge/ORCID-A6CE39?style=flat&logo=orcid&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/Michel1Gad">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" />
   </a>
 </p>
 
